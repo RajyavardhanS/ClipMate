@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/ba642ed8-b85a-4f71-b1cb-86a36ed3a331)
 Here’s a complete rewrite of the `README.md` file for your React + Vite project with Tailwind CSS installation and details about the packages used:
 
 ---
